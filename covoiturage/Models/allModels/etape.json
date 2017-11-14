@@ -1,0 +1,14 @@
+[{
+	"depart":false, 
+	"terminus":true, 
+	"heure":"21:15:00",
+	"adresse":{	
+		"rue":"plae Jean-Jacques",
+		"departement":34000,
+		"ville":"Montpellier",
+		"lat":21212,	
+		"lng":21212
+	},
+	"passager_arrivant":["@USER"],
+	"passagers_sortant":["@USER"]
+}]

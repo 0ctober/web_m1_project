@@ -1,0 +1,24 @@
+{
+  "name": "covoiturage",
+  "version": "1.0.0",
+  "description": "Application web, service pour le covoiturage.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "covoiturage",
+    "ter"
+  ],
+  "author": "DOS SANTOS MARTINS Henrique & IDJELLIDAINE Jean-Christophe",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongo-express": "^0.44.0",
+    "mongodb": "^2.2.33",
+    "nodemon": "^1.12.1"
+  }
+}

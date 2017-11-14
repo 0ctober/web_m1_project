@@ -1,0 +1,6 @@
+db.annonce.drop()
+db.anulation.drop()
+db.etape.drop()
+db.member.drop()
+db.portion.drop()
+db.portion_standard.drop()

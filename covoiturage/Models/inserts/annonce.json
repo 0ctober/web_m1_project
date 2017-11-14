@@ -1,0 +1,86 @@
+[
+	{
+		"dispo":true,	
+		"fini":false,
+		"voiture":"@vehicule.1",
+		"direct":false,	
+		"itineraire":["@portions"],
+		"date":"21-10-2017",
+		"durée":"02:30:00",
+		"distance":"250",
+		"conducteur":"@USER",
+		"avis":{
+			"0":{
+				"note":5,
+				"com":"J'ai aimé le trajet"
+			},
+			"1":{
+				"note":1,
+				"com":"Pas moi"
+			}
+		}
+	},
+	{
+		"dispo":true,	
+		"fini":false,
+		"voiture":"@vehicule.1",
+		"direct":false,	
+		"itineraire":["@portions"],
+		"date":"21-10-2017",
+		"durée":"02:30:00",
+		"distance":"250",
+		"conducteur":"@USER",
+		"avis":{
+			"0":{
+				"note":5,
+				"com":"J'ai aimé le trajet"
+			},
+			"1":{
+				"note":1,
+				"com":"Pas moi"
+			}
+		}
+	},
+	{
+		"dispo":true,	
+		"fini":false,
+		"voiture":"@vehicule.1",
+		"direct":false,	
+		"itineraire":["@portions"],
+		"date":"21-10-2017",
+		"durée":"02:30:00",
+		"distance":"250",
+		"conducteur":"@USER",
+		"avis":{
+			"0":{
+				"note":5,
+				"com":"J'ai aimé le trajet"
+			},
+			"1":{
+				"note":1,
+				"com":"Pas moi"
+			}
+		}
+	},
+	{
+		"dispo":true,	
+		"fini":false,
+		"voiture":"@vehicule.1",
+		"direct":false,	
+		"itineraire":["@portions"],
+		"date":"21-10-2017",
+		"durée":"02:30:00",
+		"distance":"250",
+		"conducteur":null,
+		"avis":{
+			"0":{
+				"note":5,
+				"com":"J'ai aimé le trajet"
+			},
+			"1":{
+				"note":1,
+				"com":"Pas moi"
+			}
+		}
+	}
+]
